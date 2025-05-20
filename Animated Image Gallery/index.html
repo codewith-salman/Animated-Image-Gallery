@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Animated Image Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
+    integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous"/>
+</head>
+<body>
+  <div class="container">
+    <div class="imgBx imgBx1"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Golf</span></div>
+        <div class="right"><span>Watch</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx2"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Sport</span></div>
+        <div class="right"><span>Fitness</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx3"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Ultimate</span></div>
+        <div class="right"><span>Neon</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx4"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Luxury</span></div>
+        <div class="right"><span>House</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx5"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Louvre</span></div>
+        <div class="right"><span>Museum</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx6"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Splash</span></div>
+        <div class="right"><span>Colors</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx7"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Superman</span></div>
+        <div class="right"><span>Sign Of Hope</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx8"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Ironman</span></div>
+        <div class="right"><span>Man of steel with soft Heart</span></div>
+      </div>
+    </div>
+    <div class="imgBx imgBx9"><i class="fas fa-eye"></i>
+      <div class="img-content">
+        <div class="left"><span>Loki</span></div>
+        <div class="right"><span>King Of Multiverse</span></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.querySelectorAll(".imgBx").forEach(function (view) {
+      view.addEventListener('click', function () {
+        view.classList.toggle('zoom');
+      });
+    });
+  </script>
+</body>
+</html>
