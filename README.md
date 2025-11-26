@@ -38,9 +38,7 @@ Use this gallery for:
 - Clean grid-based arrangement  
 - Lightweight and performance optimized  
 - Modern and visually appealing design  
-- Easy to customize with any images  
 - Supports multiple gallery styles  
-
 ---
 
 ### 🛠️ Built With
