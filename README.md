@@ -28,9 +28,7 @@ Use this gallery for:
 - Photography portfolios  
 - Art showcase websites  
 - UI animation practice  
-- Creative landing pages  
-- Modern web design demonstrations  
-
+- Creative landing pages
 ---
 
 ### ✨ Features
