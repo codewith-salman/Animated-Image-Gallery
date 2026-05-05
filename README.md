@@ -17,12 +17,6 @@
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="Animated%20Image%20Gallery/images/desktop.jpg" alt="Animated Image Gallery Logo" width="120"/>
-
-<br />
-<br />
-
 <h1 align="center">🎨 Animated Image Gallery</h1>
 
 A visually engaging and fully responsive **Animated Image Gallery** built using  
