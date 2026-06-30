@@ -58,8 +58,6 @@ Ideal for:
 - UI animation practice  
 - Creative landing pages  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -71,8 +69,6 @@ Ideal for:
 - Modern and visually appealing design  
 - Supports multiple gallery styles  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -80,8 +76,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
