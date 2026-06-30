@@ -56,7 +56,6 @@ Ideal for:
 - Photography portfolios  
 - Art showcase websites  
 - UI animation practice  
-- Creative landing pages  
 
 ---
 
