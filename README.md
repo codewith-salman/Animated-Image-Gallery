@@ -65,7 +65,6 @@ Ideal for:
 - Fully responsive animated image layout  
 - Smooth hover and zoom-in effects  
 - Clean grid-based arrangement  
-- Lightweight and performance optimized  
 - Modern and visually appealing design  
 - Supports multiple gallery styles  
 
